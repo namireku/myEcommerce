@@ -1,0 +1,13 @@
+{
+    "name": "nicholas/proj",
+    "type": "project",
+    "authors": [
+        {
+            "name": "namireku",
+            "email": "nicholasmireku100@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^6.15"
+    }
+}
